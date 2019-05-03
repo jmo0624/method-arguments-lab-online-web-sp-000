@@ -1,3 +1,3 @@
-def introduction(name, language)
-  puts "Hi, my name is #{name} and I a, learning to program in #{language}"
+def introduction(name)
+  puts "Hi, my name is #{name}."
 end
